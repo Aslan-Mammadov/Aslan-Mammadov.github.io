@@ -2,3 +2,8 @@
     box-sizing: border-box;
 }
 
+body{
+    background: url("/images/cheff.jpeg") repeat fixed center;
+    background-size: cover;
+    color:white;
+}
