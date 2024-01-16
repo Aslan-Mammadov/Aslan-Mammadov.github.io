@@ -7,3 +7,13 @@ body{
     background-size: cover;
     color:white;
 }
+
+h1{
+    font-size:3rem;
+    text-align: center;
+    border:3px groove rgb(81, 39, 3);
+    outline:2px groove rgb(222, 110, 4);
+    outline-offset: 3px;
+    border-radius:15px;
+    padding: 10px;
+}
