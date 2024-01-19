@@ -44,11 +44,7 @@ ul{
     padding:0px;
 }
 
-main p{
-    font-size:40px;
-}
-
-div p{
+p{
     font-size:25px;
 }
 
@@ -72,3 +68,17 @@ main a{
     outline-offset: 3px;
     color:rgb(172, 241, 35);
 }
+
+footer{
+    background: rgba(0, 0, 0, .7);
+    text-align: center;
+}
+footer p{
+    padding: 10px;
+}
+footer a{
+    border: 1px solid white;
+    padding:5px;
+    border-radius: 2px;
+}
+
