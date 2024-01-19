@@ -21,5 +21,12 @@ h1{
 
 a{
     text-decoration: none;
+    color:white;
+    
+}
+ 
+img{
+    width: 100%;
+    margin:auto;
 }
 
