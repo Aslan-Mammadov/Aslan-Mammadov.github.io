@@ -43,5 +43,11 @@ ul{
     text-align: center;
     padding:0px;
 }
+main p{
+    font-size:40px;
+}
+div p{
+    font-size:25px;
+}
 
 
