@@ -59,3 +59,16 @@ div{
     margin-top:40px;
     text-align: center;
 }
+main a{
+    font-size: 20px;
+    padding:5px;
+    width: 200px;
+    margin:auto;
+    display:block;
+    text-align: center;
+    border: 2px groove rgb(81, 39, 3);
+    outline: 2px groove rgb(222, 110, 4);
+    border-radius: 20px;
+    outline-offset: 3px;
+    color:rgb(172, 241, 35);
+}
