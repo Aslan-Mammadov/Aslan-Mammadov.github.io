@@ -92,3 +92,8 @@ span{
     color:rgb(255, 128, 0);
 }
 
+form{
+    border:4px groove rgb(217,138,2);
+    outline:4px groove rgb(57, 35, 5);
+    background: rgba(0, 0, 0, .7);
+}
