@@ -81,4 +81,8 @@ footer a{
     padding:5px;
     border-radius: 2px;
 }
+span{
+    display: block;
+    color:rgb(255, 128, 0);
+}
 
