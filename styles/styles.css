@@ -134,3 +134,8 @@ button{
     background: green;
     color:white;
 }
+#entry-sign{
+    font-family: 'Sacramento', cursive;
+    font-size:45px;
+    color:white;
+}
