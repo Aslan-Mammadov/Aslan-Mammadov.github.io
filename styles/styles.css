@@ -72,15 +72,21 @@ main a{
 footer{
     background: rgba(0, 0, 0, .7);
     text-align: center;
+   
+    
 }
+
 footer p{
     padding: 10px;
 }
+
 footer a{
     border: 1px solid white;
     padding:5px;
     border-radius: 2px;
+    
 }
+
 span{
     display: block;
     color:rgb(255, 128, 0);
