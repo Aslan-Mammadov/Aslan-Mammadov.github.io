@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/styles/styles.css">
+</head>
+<body>
+    <header>
+        <h1 class="booking"> Kebab House </h1>
+        <nav>
+          <ul>
+              <li> <a href="/index.html">Main</a></li>
+              <li> <a href="/index.html#address">Contact</a></li>
+              <li> <a href="book.html" target="_blank"> Book An Event </a> </li>
+              
+          </ul>
+        </nav>
+      </header>
+        <form>
+            <p>Book Your Event Today!</p> <br>
+            <label> First Name: </label> <br>
+              <input type="text" placeholder="* Enter Your Name" required autofocus><br>
+      
+            <label>Last Name:</label> <br>
+              <input type="text" placeholder="Enter Your Last Name"> <br>
+      
+            <label> Phone Number: </label> <br>
+              <input type="tel" placeholder="* (800) 888 8888" required> <br>
+      
+            <label>Email Address: </label> <br>
+              <input type="email" placeholder="* Required" required> <br>
+      
+            <label>Plaese choose desired date and time:</label> <br>
+              <input type="date"> 
+              <input type="time"> <br>
+      
+            <label> Number of Guests: </label>
+              <input type="number" min="2" max="25" style="width: fit-content;"> <br>
+              
+              <label> Special requests:</label> <br>
+              <textarea  placeholder="Please enter special requests here." cols="30" rows="10"></textarea> <br>
+      
+            <fieldset> <legend>Seating Area:</legend>
+                <label> 
+                     <input type="radio" name="seatArea">
+                      Inside
+                </label> 
+                <label >
+                    <input type="radio" name="seatArea" class="seating-area">
+                     Outside
+                </label> 
+                <label > 
+                     <input type="radio" name="seatArea" class="seating-area">
+                     Either one
+                </label>
+            </fieldset>
+                <div class="buttons">
+            <button type="submit" id="submit-button"> Reserve</button>
+            <button type="reset" style="background-color: rgb(230, 80, 80); color:white;"> Reset </button>
+            </div>
+           
+        </form>
+    
+</body>
+</html>
