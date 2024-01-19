@@ -31,7 +31,17 @@ img{
 }
 li{
     display: inline-block;
-    padding:5px;
+    padding:10px;
     font-size:25px;
 }
+
+nav{
+    background: rgb(45, 44, 44)
+}
+
+ul{
+    text-align: center;
+    padding:0px;
+}
+
 
