@@ -9,6 +9,7 @@ body{
 }
 
 h1{
+    
     font-size:3rem;
     text-align: center;
     border:3px groove rgb(81, 39, 3);
@@ -93,7 +94,43 @@ span{
 }
 
 form{
+    text-align: center;
     border:4px groove rgb(217,138,2);
     outline:4px groove rgb(57, 35, 5);
     background: rgba(0, 0, 0, .7);
+}
+
+label, input, fieldset{
+    font-size:20px;
+    margin:20px 10px;
+}
+
+textarea{
+    margin:10px;
+    width:70%;
+}
+
+form div{
+    align-items: center;
+    border: none;
+}
+
+button{
+    margin: 10px;
+    border-radius:10px;
+    align-content: center;
+    width: 150px;
+    height: 30px; 
+    border:2px white solid;
+}
+
+#reset-button{
+    background-color: rgb(190, 44, 44);
+    color:white;
+    
+}
+
+#submit-button{
+    background: green;
+    color:white;
 }
