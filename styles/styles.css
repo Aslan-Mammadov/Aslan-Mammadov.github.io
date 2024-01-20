@@ -98,6 +98,7 @@ form{
     border:4px groove rgb(217,138,2);
     outline:4px groove rgb(57, 35, 5);
     background: rgba(0, 0, 0, .7);
+    margin-top:50px;
 }
 
 label, input, fieldset{
