@@ -102,7 +102,7 @@ form{
 
 label, input, fieldset{
     font-size:20px;
-    margin:20px 10px;
+    margin:20px 5px;
 }
 
 textarea{
@@ -139,3 +139,5 @@ button{
     font-size:45px;
     color:white;
 }
+
+
