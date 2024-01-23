@@ -9,3 +9,6 @@
 * On this project I used HTML and CSS to build and style the website. 
 * I built the website first for mobile aplication then added media queries to change its style for the wider screen sizes.
 * For the future I want to add option where you can order using this website instead of going through uber eats.
+
+## You can visit he page at:
+* https://aslan-mammadov.github.io/
